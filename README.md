@@ -12,7 +12,7 @@
 
 ## 使用例
 
-### アプリ名がTwitterの場合
+アプリ名がTwitterの場合
 
 https://oryo-developer.github.io/privacy-policy?app-name=Twitter
 
@@ -22,7 +22,7 @@ MIT License
 
 ## 開発者
 
-### おりょう
+おりょう
 
 Gmail: [oryo.developer@gmail.com](mailto:oryo.developer@gmail.com)
 
